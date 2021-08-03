@@ -1,0 +1,68 @@
+<html>
+	<head>
+		<title>V8</title>
+	</head>
+	<body>
+		<h1 align="center">
+			<!--heading of our page-->
+			 Welcome to 
+			 <span style="color:red">V8</span>
+			 <h3 align="center"><i> Time to upgrade yourself!!!</i></h3>
+			 <hr width="50%" align="center" />
+		</h1>
+		    <div>
+			<h2>
+			    <ul>
+					<li>Manideep </li>       			                                                      
+					<li>Yash</li>
+					<li>Sathwika</li>
+					<li>Manaswini</li>
+					<li>Mahitha</li>
+					<li>Karthika</li>
+					<li>Simran</li>
+					<li>Lokesh</li>
+				</ul>
+			</h2>
+				<h1 align="center">
+					<!-- our projects to do-->
+					<u>Projects in progress</u>
+				</h1>
+				<br>
+				<table border="2" bgcolor="lightblue">
+			        <tr>
+					  <th>S.no</th>
+			          <th>Project Name</th>
+			          <th> Status</th>
+					  <th> End time</th>	
+			        </tr>
+				    <tr>
+					  <td>1</td>
+			          <td><span style="color:red">Project-k</span></td>
+				      <td><input placeholder="enter status"  ></td>
+					  <td> <input placeholder="enter date"></td>
+			        </tr>
+			        <tr>
+					   <td>2</td>
+			           <td>Agriculture project</td>
+					   <td><input placeholder="enter status"> </td>
+			           <td colspan="1"><input placeholder="enter date"><br></td>
+			        </tr>
+					<tr>
+						<td>3</td>
+						<td><input placeholder="name of the project"></td>
+						<td><input placeholder="enter status"  ></td>
+					    <td> <input placeholder="enter date"></td>
+					</tr>
+			    </table>
+				<br/><br>
+				<a href="https://www.youtube.com" target="_blank">
+				<img src="../project logos/logo.jpeg" height="300px"  width="300px"  border="0px" alt=""/>
+				</a>
+				
+			 <img src="../project logos/agriculture.jfif" height="300px" width="500px"  border="0px" alt=""/>
+			 
+			 
+			<hr/>
+		</div>
+	</body>		
+</html>
